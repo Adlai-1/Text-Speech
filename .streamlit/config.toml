@@ -1,0 +1,20 @@
+# Place this file at: .streamlit/config.toml
+
+[theme]
+# Dark theme base - ensures all components are dark
+base = "dark"
+
+# Primary accent color (matches your purple gradient)
+primaryColor = "#667eea"
+
+# Main background (dark blue-black)
+backgroundColor = "#0f0f23"
+
+# Sidebar and widget backgrounds
+secondaryBackgroundColor = "#1a1a2e"
+
+# Text color (white)
+textColor = "#ffffff"
+
+# Font family
+font = "sans serif"
